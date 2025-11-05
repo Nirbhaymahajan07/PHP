@@ -7,10 +7,6 @@
 </head>
     <body>
     <?php
-    class Test
-    {
-
-    }
     $a=100; //int
     echo $a."<br>";
     $b=155.55; //float
@@ -23,7 +19,10 @@
     print_r($arr);
     $e=null; //null 
     echo $e."<br>";
-    // t=new Test();  
+    class Test 
+    {
+    }
+    t=new Test(); //object
     ?> 
 </body>
 </html>
