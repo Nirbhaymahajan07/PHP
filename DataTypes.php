@@ -22,7 +22,7 @@
     class Test //class
     {
     }
-    t=new Test(); //object
+    // t=new Test(); //object
     ?> 
 </body>
 </html>
