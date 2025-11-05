@@ -19,7 +19,7 @@
     print_r($arr);
     $e=null; //null 
     echo $e."<br>";
-    class Test 
+    class Test //class
     {
     }
     t=new Test(); //object
