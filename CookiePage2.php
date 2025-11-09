@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Page 2</title>
+    <title>Cookie Page 2</title>
 </head>
 <body>
     <center>
