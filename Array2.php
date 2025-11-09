@@ -21,7 +21,7 @@
         echo"<br>";
     //---------------------------------------------
         //$newarray=array_unique // Gives Uniquen Values From array
-        //$newarray=array_map // Gives Multiple Values Multi,Add,Even,Odd Etc:-
+        //$newarray=array_map // Gives Multiple Values With Multiplication,Add,Even,Odd Etc:- As Per User Req.
     //---------------------------------------------
         $newarray=range(1,15,2);
         for($i=0;$i<count($newarray);$i++)
