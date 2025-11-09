@@ -15,7 +15,7 @@
     //    if mule vivek kach takayla lagel
        $user=$_POST['txtuser'];
        $pass=$_POST['txtpass'];
-    if(strcmp($user,"vivek")==0 and strcasecmp($pass,"indore"))//==0
+    if(strcmp($user,"vivek")==0 and strcasecmp($pass,"indore")==0)
         echo "<font color=green size=5>Valid User</font>";
     else
         echo "<font color=red size=5>Invalid User</font>";

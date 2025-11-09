@@ -17,8 +17,8 @@
         $user=$_POST['txtuser'];
         $pass=$_POST['txtpass'];
         if(strcmp($user,"abhay")==0 and strcasecmp($pass,"123")==0)
-            // echo "<font color=green size=5>Valid User</font>";
-            Header("Location:add.php");
+            // echo "<font color=green size=5>Valid User</font>"; //Tyach Page Vr Opening Sathi
+            Header("Location:add.php"); //Next Page Vr Opening Sathi
         else
             echo "<font color=red size=5>Invalid User</font>";
     }
